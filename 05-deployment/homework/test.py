@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://predict-convert.fly.dev/predict'
+url = 'http://127.0.0.1:9696/predict'
 
 client = {
     "lead_source": "organic_search",

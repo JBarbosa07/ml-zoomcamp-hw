@@ -16,4 +16,4 @@ Probability of conversion = **0.5340417283801275**.
 Base image size is **121 MB**.
 
 ## Q6
-Probability of conversion = **0.5340417283801275**.
+Probability of conversion = **0.9933071490756734**.
